@@ -1,0 +1,28 @@
+.topi{
+    color: magenta;
+}
+.baju{
+    color: pink;
+}
+.celana{
+    color: turquoise
+}
+.asyifa{ 
+    margin: auto;
+    padding-left: 80px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 50px;
+    background-color: rgba(216, 147, 233, 0.952);
+}
+.asadih{
+    margin: auto;
+    padding-left: 80px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 50px;
+    background-color: paleturquoise; 
+}
+
